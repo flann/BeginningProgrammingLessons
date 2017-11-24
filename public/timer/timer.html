@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="description" content="Dynamic Output">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Kai's Programming Lessons</title>
+    <link rel="stylesheet" href="/style/style.css" type="text/css" />
+</head>
+
+<body>
+    <script src="/scripts/print.js">
+    </script>
+    <script src="timer.js">
+    </script>
+    <script>
+        prt("Hello from The Timer!");
+        window.setInterval(function() {
+            printTime(new Date());
+        }, 1000);
+    </script>
+</body>
+
+</html>
