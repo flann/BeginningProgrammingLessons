@@ -5,20 +5,36 @@
     <meta name="description" content="Dynamic Output">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>Kai's Programming Lessons</title>
+    <title>Programming Lessons</title>
     <link rel="stylesheet" href="/style/style.css" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="/scripts/log.js"></script>
+    <script src="/scripts/ajaxLoadPage.js"></script>
 </head>
 
 <body>
-    <script src="/scripts/ajaxLoadPage.js">
+    <script>
+        function loadPage(pageURL) {
+            var loader = new PageLoader(pageURL);
+            loader.load();
+        }
     </script>
-    <div>
-        <h1>Code Samples</h1>
+
+    <div class="exerciseSection">
+        <div class="menu">
+            <h1 style="margin-top: 0px;">Exercises</h1>
+            <span class="exerciseLink" onclick="loadPage('/timer/timer.html')">Clock</span>
+            <span class="exerciseLink" onclick="loadPage('/grids/grids.html')">Grids</span>
+        </div>
+        <div id="content" class="content"></div>
     </div>
-    <ul>
-        <li><a href="/timer/timer.html">Timer</a></li>
-    </ul>
-    <div id="content" class="content"></div>
+    <div class="logContainer">
+        <div id="log"></div>
+    </div>
+
+    <script>
+        log("You can log messages in this window using \"log(\"your log message here\");\"");
+    </script>
 </body>
 
 </html>
