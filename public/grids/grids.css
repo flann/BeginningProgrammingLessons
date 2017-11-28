@@ -1,0 +1,14 @@
+#grids {
+    height: 100%;
+}
+
+#myGrid {
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr;
+    height: calc(100% - 40px);
+}
+
+.gridElement {
+    border: 1px solid black;
+    border-radius: 3px;
+}

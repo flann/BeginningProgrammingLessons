@@ -10,10 +10,12 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="/scripts/log.js"></script>
     <script src="/scripts/ajaxLoadPage.js"></script>
+    <script src="/scripts/loadCss.js"></script>
 </head>
 
 <body>
     <script>
+        var loadedCss = {};
         function loadPage(pageURL) {
             var loader = new PageLoader(pageURL);
             loader.load();
