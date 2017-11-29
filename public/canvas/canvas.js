@@ -9,6 +9,9 @@ function useCanvas() {
 
     var context = canvas.getContext('2d');
 
+    context.save();
+    context.rotate((Math.PI / 180.0) * 10.0);
+
     context.strokeStyle = 'black';
     context.lineWidth = 1;
 
@@ -25,6 +28,9 @@ function useCanvas() {
     context.lineTo(650, 175);
     context.lineTo(650, 105);
     context.fill();
+
+    // Unrotate
+    context.restore();
 
     context.fillStyle = 'rgba(0, 175, 0, 0.75)';
     context.beginPath();
@@ -53,7 +59,10 @@ function useCanvas() {
       var pattern = context.createPattern(image, 'repeat');
       context.fillStyle = pattern;
       context.fillRect(100, 250, 200, 200);
+
+      context.drawImage(image, 900, 20, 500, 42);
     }
+
 
     context.font = '50px Courier New';
     context.fillStyle = 'black';
@@ -63,6 +72,7 @@ function useCanvas() {
     context.setLineDash([1,0]);
     context.strokeStyle = 'rgba(100, 100, 100, 0.50)';
     context.strokeText("This is some text", 910, 360);
+
 }
 
 function canvasResize() {
