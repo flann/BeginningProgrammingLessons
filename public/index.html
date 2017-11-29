@@ -14,12 +14,7 @@
 </head>
 
 <body>
-    <script>
-        var loadedCss = {};
-        function loadPage(pageURL) {
-            var loader = new PageLoader(pageURL);
-            loader.load();
-        }
+    <script src="/main.js">
     </script>
 
     <div class="exerciseSection">
@@ -27,8 +22,11 @@
             <h1 style="margin-top: 0px;">Exercises</h1>
             <span class="exerciseLink" onclick="loadPage('/timer/timer.html')">Clock</span>
             <span class="exerciseLink" onclick="loadPage('/grids/grids.html')">Grids</span>
+            <span class="exerciseLink" onclick="loadPage('/canvas/canvas.html')">Canvas</span>
         </div>
-        <div id="content" class="content"></div>
+        <div id="content" class="content">
+            <h3>Click on a button to see content here!</h3>
+        </div>
     </div>
     <div class="logContainer">
         <div id="log"></div>

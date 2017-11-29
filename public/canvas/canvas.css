@@ -1,0 +1,8 @@
+#canvasWrapper {
+    position: absolute;
+    width: calc(100% - 20px);
+    height: calc(100% - 51px);
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-top: 5px;
+}
