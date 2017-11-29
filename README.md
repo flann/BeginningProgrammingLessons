@@ -8,3 +8,6 @@ If you install node.js, you can get a simple http server by installing the http-
 npm install http-server -g
 
 The "startServer.bat" file will start the server in the correct directory to serve the files in the "public" folder.
+
+Once the server is running, just browse to http://127.0.0.1 or http://localhost
+
