@@ -5,10 +5,11 @@
 function log(str) {
     var div = document.getElementById("log");
     var span = document.createElement("span");
-    var br = document.createElement("br");
+    var pre = document.createElement("pre");
+    pre.setAttribute("style", "margin: 0;");
     span.innerHTML = str;
     span.setAttribute("class", "logMessage");
-    div.appendChild(span);
-    div.appendChild(br);
+    pre.appendChild(span);
+    div.appendChild(pre);
     return span;
 }
