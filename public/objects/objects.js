@@ -16,6 +16,7 @@ function funWithObjects() {
 };
 `;
     logToDiv(objStr, objectOutput);
+    logToDiv("Call the object's greeting:", objectOutput);
     eval(objStr);
     simpleObject.greeting(objectOutput);
 }
