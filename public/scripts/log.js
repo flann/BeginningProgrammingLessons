@@ -4,6 +4,10 @@
  */
 function log(str) {
     var div = document.getElementById("log");
+    return logToDiv(str, div);
+}
+
+function logToDiv(str, div) {
     var span = document.createElement("span");
     var pre = document.createElement("pre");
     pre.setAttribute("style", "margin: 0;");
