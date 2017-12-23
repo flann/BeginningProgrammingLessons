@@ -44,10 +44,10 @@ function useCanvas() {
     context.setLineDash([5,5]);
 
     context.beginPath();
-    context.moveTo(850, 275);
-    context.quadraticCurveTo(1100, 100, 1500, 275);
+    context.moveTo(450, 275);
+    context.quadraticCurveTo(700, 100, 1100, 275);
 
-    context.bezierCurveTo(1400, 50, 1000, 50, 850, 275);
+    context.bezierCurveTo(1000, 50, 600, 50, 250, 275);
     context.closePath();
     context.stroke();
     context.fill();
@@ -60,18 +60,18 @@ function useCanvas() {
       context.fillStyle = pattern;
       context.fillRect(100, 250, 200, 200);
 
-      context.drawImage(image, 900, 20, 500, 42);
+      context.drawImage(image, 700, 20, 500, 42);
     }
 
 
     context.font = '50px Courier New';
     context.fillStyle = 'black';
-    context.fillText("This is some text", 900, 350);
+    context.fillText("This is some text", 500, 350);
     context.lineWidth = 1;
     context.lineJoin = 'miter';
     context.setLineDash([1,0]);
     context.strokeStyle = 'rgba(100, 100, 100, 0.50)';
-    context.strokeText("This is some text", 910, 360);
+    context.strokeText("This is some text", 510, 360);
 
 }
 
