@@ -1,0 +1,15 @@
+#kaisName {
+  font-size: 40px;
+  font-family: 'Courier New', monospace;
+  color: white;
+  background-color: gray;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#kaisName.clickKai {
+    font-size: 80px;
+    color: grey;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
