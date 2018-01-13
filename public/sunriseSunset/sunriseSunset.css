@@ -1,0 +1,20 @@
+#sunrise {
+    /*width: calc(100% - 23px);
+    height: calc(100% - 54px);
+    border: 2px solid red;
+    border-radius: 5px;
+    margin-top: 5px;    */
+}
+#sunriseParent {
+text-align: center;
+}
+/*homework assignement is:
+    get initial style the way you want it
+    Then:
+    change the style using JavaScript
+    Then: change the style after 15 sec.
+    hint:
+    was done on the timer page
+    use:
+    window.setTimeout istead of window.setInterval
+*/
