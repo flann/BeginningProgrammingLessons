@@ -5,5 +5,7 @@ function start() {
   window.setTimeout(function() {
     var sunElements = document.getElementsByClassName("sunDisplay");
     console.dir(sunElements);
+    // First, figure out how to access each of the 2 array elements in sunElements
+    // Then, figure out how to ADD a class ("timeChange") to each element.
   }, 15000);
 }
