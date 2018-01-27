@@ -11,12 +11,12 @@ class SunriseSunsetRequest {
             console.log("AAAAHHHHH!!");
         } else {
             console.dir(data);
-            let sunriseSpan = document.getElementById("sunrise");
-            var sunrise = new Date(data.results.sunrise);
-            var sunset = new Date(data.results.sunset);
+            let sunriseNode = document.getElementById("sunrise");
 
-            sunriseSpan.innerHTML = "Sunrise " + this.time2String(data.results.sunrise) + ", Sunset " + this.time2String(data.results.sunset);
+            sunriseNode.innerHTML = "Sunrise " + this.time2String(data.results.sunrise);
 
+            let sunsetNode = document.getElementById("sunset");
+            sunsetNode.innerHTML = "Sunset " + this.time2String(data.results.sunset);
 
             //Homework: convert time to local time. Look at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
         }

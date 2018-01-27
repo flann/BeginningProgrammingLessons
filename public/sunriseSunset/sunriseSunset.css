@@ -1,13 +1,28 @@
 #sunrise {
-    /*width: calc(100% - 23px);
+  /*width: calc(100% - 23px);
     height: calc(100% - 54px);
     border: 2px solid red;
     border-radius: 5px;
     margin-top: 5px;    */
 }
+
 #sunriseParent {
-text-align: center;
+  text-align: center;
 }
+
+.sunDisplay {
+  font-size: 75px;
+  border: 1px solid black;
+  border-radius: 8px;
+  margin: 25px;
+  padding: 15px;
+}
+
+.sunDisplay.timeChange {
+  background-color: purple;
+  color: #fffff;
+}
+
 /*homework assignement is:
     get initial style the way you want it
     Then:
@@ -17,4 +32,7 @@ text-align: center;
     was done on the timer page
     use:
     window.setTimeout istead of window.setInterval
+
+    What I want:
+    Bigger font with sunrise and sunset on different lines and in boxes.
 */
