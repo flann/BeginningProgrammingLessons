@@ -18,7 +18,6 @@ class SunriseSunsetRequest {
             let sunsetNode = document.getElementById("sunset");
             sunsetNode.innerHTML = "Sunset " + this.time2String(data.results.sunset);
 
-            //Homework: convert time to local time. Look at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
         }
     }
     load() {
