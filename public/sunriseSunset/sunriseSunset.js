@@ -9,3 +9,4 @@ function start() {
         }
     }, 10000);
 }
+// add sometintg new to sunriseSunset page (2/2/2018)

@@ -11,12 +11,16 @@ class SunriseSunsetRequest {
             console.log("AAAAHHHHH!!");
         } else {
             console.dir(data);
-            let sunriseNode = document.getElementById("sunrise");
 
+            let sunriseNode = document.getElementById("sunrise");
             sunriseNode.innerHTML = "Sunrise " + this.time2String(data.results.sunrise);
 
             let sunsetNode = document.getElementById("sunset");
             sunsetNode.innerHTML = "Sunset " + this.time2String(data.results.sunset);
+
+            let solarNoonNode = document.getElementById("solarNoon");
+            solarNoonNode.innerHTML = "Solar Noon " + this.time2String(data.results.solar_noon);
+
 
         }
     }
