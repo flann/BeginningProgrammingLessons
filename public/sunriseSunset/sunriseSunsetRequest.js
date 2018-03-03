@@ -23,6 +23,7 @@ class SunriseSunsetRequest {
 
             let dayLengthNode = document.getElementById("dayLength");
             dayLengthNode.innerHTML = "Day Length " + this.seconds2String(data.results.day_length);
+            //Make dayLengthNode fit in the div: make font smaller or add lign breaks or make the div bigger or a  combination.
         }
     }
     load() {
