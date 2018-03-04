@@ -1,0 +1,1148 @@
+{
+    "STATION": [{
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "1997-01-01T00:00:00Z",
+            "end": "2018-03-04T02:05:00Z"
+        },
+        "ELEVATION": "4806",
+        "NAME": "U of U William Browning Building",
+        "RESTRICTED": false,
+        "STID": "WBB",
+        "ELEV_DEM": "4738",
+        "LONGITUDE": "-111.84755",
+        "STATE": "UT",
+        "LATITUDE": "40.76623",
+        "TIMEZONE": "America\/Denver",
+        "ID": "1"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "1999-01-05T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "4600",
+        "NAME": "North Holladay",
+        "RESTRICTED": false,
+        "STID": "HOL",
+        "ELEV_DEM": "4531",
+        "LONGITUDE": "-111.8259",
+        "STATE": "UT",
+        "LATITUDE": "40.6756",
+        "TIMEZONE": "America\/Denver",
+        "ID": "3"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "1997-09-11T00:00:00Z",
+            "end": "2018-03-02T12:15:00Z"
+        },
+        "ELEVATION": "9042",
+        "NAME": "Farnsworth Peak",
+        "RESTRICTED": false,
+        "STID": "FWP",
+        "ELEV_DEM": "9049",
+        "LONGITUDE": "-112.20243",
+        "STATE": "UT",
+        "LATITUDE": "40.65981",
+        "TIMEZONE": "America\/Denver",
+        "ID": "8"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "1998-05-22T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "4242",
+        "NAME": "Gunnison Island",
+        "RESTRICTED": false,
+        "STID": "GNI",
+        "ELEV_DEM": "4245",
+        "LONGITUDE": "-112.85432",
+        "STATE": "UT",
+        "LATITUDE": "41.33216",
+        "TIMEZONE": "America\/Denver",
+        "ID": "34"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "1998-09-02T00:00:00Z",
+            "end": "2018-03-04T01:50:00Z"
+        },
+        "ELEVATION": "4242",
+        "NAME": "Hat Island",
+        "RESTRICTED": false,
+        "STID": "HATUT",
+        "ELEV_DEM": "4252",
+        "LONGITUDE": "-112.58621",
+        "STATE": "UT",
+        "LATITUDE": "41.07073",
+        "TIMEZONE": "America\/Denver",
+        "ID": "35"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "1999-07-02T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "4242",
+        "NAME": "Locomotive Springs",
+        "RESTRICTED": false,
+        "STID": "LMS",
+        "ELEV_DEM": "4216",
+        "LONGITUDE": "-112.86181",
+        "STATE": "UT",
+        "LATITUDE": "41.70100",
+        "TIMEZONE": "America\/Denver",
+        "ID": "36"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "1999-05-14T00:00:00Z",
+            "end": "2018-03-04T01:50:00Z"
+        },
+        "ELEVATION": "4206",
+        "NAME": "Badger Island",
+        "RESTRICTED": false,
+        "STID": "BGRUT",
+        "ELEV_DEM": "4206",
+        "LONGITUDE": "-112.561960",
+        "STATE": "UT",
+        "LATITUDE": "40.942113",
+        "TIMEZONE": "America\/Denver",
+        "ID": "37"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "1997-10-31T00:00:00Z",
+            "end": "2018-03-04T01:55:00Z"
+        },
+        "ELEVATION": "4459",
+        "NAME": "Antelope Island",
+        "RESTRICTED": false,
+        "STID": "SNX",
+        "ELEV_DEM": "4449",
+        "LONGITUDE": "-112.231565",
+        "STATE": "UT",
+        "LATITUDE": "41.039403",
+        "TIMEZONE": "America\/Denver",
+        "ID": "38"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "1999-12-16T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "5039",
+        "NAME": "Lakeside Mountain",
+        "RESTRICTED": false,
+        "STID": "LMR",
+        "ELEV_DEM": "5151",
+        "LONGITUDE": "-112.89173",
+        "STATE": "UT",
+        "LATITUDE": "41.06084",
+        "TIMEZONE": "America\/Denver",
+        "ID": "39"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "1997-12-28T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "8015",
+        "NAME": "Timpanogos Rim",
+        "RESTRICTED": false,
+        "STID": "TPC",
+        "ELEV_DEM": "8018",
+        "LONGITUDE": "-111.70741",
+        "STATE": "UT",
+        "LATITUDE": "40.43524",
+        "TIMEZONE": "America\/Denver",
+        "ID": "42"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "1998-07-22T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "9013",
+        "NAME": "Sun Valley - Bald Mtn.",
+        "RESTRICTED": false,
+        "STID": "SVB",
+        "ELEV_DEM": "8999",
+        "LONGITUDE": "-114.40315",
+        "STATE": "ID",
+        "LATITUDE": "43.66127",
+        "TIMEZONE": "America\/Boise",
+        "ID": "44"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "1998-12-08T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "9996",
+        "NAME": "Titus Peak",
+        "RESTRICTED": false,
+        "STID": "SVT",
+        "ELEV_DEM": "10023",
+        "LONGITUDE": "-114.71842",
+        "STATE": "ID",
+        "LATITUDE": "43.84411",
+        "TIMEZONE": "America\/Boise",
+        "ID": "45"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2000-05-02T00:00:00Z",
+            "end": "2018-02-08T23:50:00Z"
+        },
+        "ELEVATION": "4206",
+        "NAME": "Saltaire",
+        "RESTRICTED": false,
+        "STID": "QSA",
+        "ELEV_DEM": "4232",
+        "LONGITUDE": "-112.049822",
+        "STATE": "UT",
+        "LATITUDE": "40.805981",
+        "TIMEZONE": "America\/Denver",
+        "ID": "607"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2010-11-23T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "5202",
+        "NAME": "Flight Park South",
+        "RESTRICTED": false,
+        "STID": "FPS",
+        "ELEV_DEM": "5157",
+        "LONGITUDE": "-111.90483",
+        "STATE": "UT",
+        "LATITUDE": "40.45689",
+        "TIMEZONE": "America\/Denver",
+        "ID": "2524"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2002-09-05T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "5201",
+        "NAME": "Trans-Jordan Landfill",
+        "RESTRICTED": false,
+        "STID": "TRJO",
+        "ELEV_DEM": "5184",
+        "LONGITUDE": "-112.06094",
+        "STATE": "UT",
+        "LATITUDE": "40.556805",
+        "TIMEZONE": "America\/Denver",
+        "ID": "5532"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2002-10-21T00:00:00Z",
+            "end": "2018-03-04T01:00:00Z"
+        },
+        "ELEVATION": "9156",
+        "NAME": "Lower Titus",
+        "RESTRICTED": false,
+        "STID": "TTSID",
+        "ELEV_DEM": "9252",
+        "LONGITUDE": "-114.70695",
+        "STATE": "ID",
+        "LATITUDE": "43.85763",
+        "TIMEZONE": "America\/Boise",
+        "ID": "6050"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2003-10-22T00:00:00Z",
+            "end": "2018-03-04T01:45:00Z"
+        },
+        "ELEVATION": "4700",
+        "NAME": "Farmington Bench",
+        "RESTRICTED": false,
+        "STID": "FARM",
+        "ELEV_DEM": "4646",
+        "LONGITUDE": "-111.8907",
+        "STATE": "UT",
+        "LATITUDE": "41.004",
+        "TIMEZONE": "America\/Denver",
+        "ID": "8296"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2004-02-12T00:00:00Z",
+            "end": "2018-03-04T01:00:00Z"
+        },
+        "ELEVATION": "9530",
+        "NAME": "Soldier Mountain Peak 2",
+        "RESTRICTED": false,
+        "STID": "SLDMT",
+        "ELEV_DEM": "9498",
+        "LONGITUDE": "-114.90712",
+        "STATE": "ID",
+        "LATITUDE": "43.48455",
+        "TIMEZONE": "America\/Boise",
+        "ID": "9092"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2004-02-09T00:00:00Z",
+            "end": "2018-03-04T01:45:00Z"
+        },
+        "ELEVATION": "5120",
+        "NAME": "North Ogden Bench",
+        "RESTRICTED": false,
+        "STID": "NOB",
+        "ELEV_DEM": "5098",
+        "LONGITUDE": "-111.93835",
+        "STATE": "UT",
+        "LATITUDE": "41.32253",
+        "TIMEZONE": "America\/Denver",
+        "ID": "11284"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2004-11-01T00:00:00Z",
+            "end": "2018-03-04T01:00:00Z"
+        },
+        "ELEVATION": "9500",
+        "NAME": "BRIGHTON CREST",
+        "RESTRICTED": false,
+        "STID": "BRC",
+        "ELEV_DEM": "9560",
+        "LONGITUDE": "-111.57677",
+        "STATE": "UT",
+        "LATITUDE": "40.58725",
+        "TIMEZONE": "America\/Denver",
+        "ID": "11868"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2005-11-29T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "5700",
+        "NAME": "Swansons North Fork Environmental Center",
+        "RESTRICTED": false,
+        "STID": "SNFEC",
+        "ELEV_DEM": "5682",
+        "LONGITUDE": "-111.90397",
+        "STATE": "UT",
+        "LATITUDE": "41.35922",
+        "TIMEZONE": "America\/Denver",
+        "ID": "14842"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2005-02-01T00:00:00Z",
+            "end": "2018-03-04T01:45:00Z"
+        },
+        "ELEVATION": "6100",
+        "NAME": "SunCrest",
+        "RESTRICTED": false,
+        "STID": "SUNUT",
+        "ELEV_DEM": "6102",
+        "LONGITUDE": "-111.83714",
+        "STATE": "UT",
+        "LATITUDE": "40.48042",
+        "TIMEZONE": "America\/Denver",
+        "ID": "15069"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2007-12-18T00:00:00Z",
+            "end": "2018-03-04T01:00:00Z"
+        },
+        "ELEVATION": "10565",
+        "NAME": "BRIGHTON GREAT WESTERN",
+        "RESTRICTED": false,
+        "STID": "BRW",
+        "ELEV_DEM": "10444",
+        "LONGITUDE": "-111.56160",
+        "STATE": "UT",
+        "LATITUDE": "40.59230",
+        "TIMEZONE": "America\/Denver",
+        "ID": "22477"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2009-01-10T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "8897",
+        "NAME": "Powder Mountain",
+        "RESTRICTED": false,
+        "STID": "UTPWD",
+        "ELEV_DEM": "8894",
+        "LONGITUDE": "-111.76400",
+        "STATE": "UT",
+        "LATITUDE": "41.36990",
+        "TIMEZONE": "America\/Denver",
+        "ID": "25247"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2010-01-01T00:00:00Z",
+            "end": "2018-03-04T01:00:00Z"
+        },
+        "ELEVATION": "5017",
+        "NAME": "Badger Wash",
+        "RESTRICTED": false,
+        "STID": "BDGER",
+        "ELEV_DEM": "5020",
+        "LONGITUDE": "-108.937581",
+        "STATE": "CO",
+        "LATITUDE": "39.344256",
+        "TIMEZONE": "America\/Denver",
+        "ID": "26749"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2011-02-12T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "10050",
+        "NAME": "Goldbasin",
+        "RESTRICTED": false,
+        "STID": "GOLDB",
+        "ELEV_DEM": "10092",
+        "LONGITUDE": "-109.264475",
+        "STATE": "UT",
+        "LATITUDE": "38.465283",
+        "TIMEZONE": "America\/Denver",
+        "ID": "30138"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2011-03-02T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "7804",
+        "NAME": "Granite Mountain",
+        "RESTRICTED": false,
+        "STID": "GRAMT",
+        "ELEV_DEM": "7785",
+        "LONGITUDE": "-116.204217",
+        "STATE": "ID",
+        "LATITUDE": "45.082575",
+        "TIMEZONE": "America\/Boise",
+        "ID": "30240"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2011-10-24T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "5061",
+        "NAME": "Natural History Museum Utah",
+        "RESTRICTED": false,
+        "STID": "NHMU",
+        "ELEV_DEM": "5082",
+        "LONGITUDE": "-111.822855",
+        "STATE": "UT",
+        "LATITUDE": "40.764306",
+        "TIMEZONE": "America\/Denver",
+        "ID": "31820"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2011-11-10T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "11330",
+        "NAME": "Abajo Peak",
+        "RESTRICTED": false,
+        "STID": "ABAUT",
+        "ELEV_DEM": "11145",
+        "LONGITUDE": "-109.46188",
+        "STATE": "UT",
+        "LATITUDE": "37.84107",
+        "TIMEZONE": "America\/Denver",
+        "ID": "31990"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2012-04-26T00:00:00Z",
+            "end": "2018-03-04T02:05:00Z"
+        },
+        "ELEVATION": "4996",
+        "NAME": "U of U Mountain Met Lab",
+        "RESTRICTED": false,
+        "STID": "MTMET",
+        "ELEV_DEM": "4993",
+        "LONGITUDE": "-111.828211",
+        "STATE": "UT",
+        "LATITUDE": "40.766573",
+        "TIMEZONE": "America\/Denver",
+        "ID": "33898"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2012-11-20T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "8460",
+        "NAME": "Powder Mountain 2",
+        "RESTRICTED": false,
+        "STID": "UTPW2",
+        "ELEV_DEM": "8527",
+        "LONGITUDE": "-111.76684",
+        "STATE": "UT",
+        "LATITUDE": "41.37428",
+        "TIMEZONE": "America\/Denver",
+        "ID": "35728"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2013-03-28T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "5144",
+        "NAME": "Herriman",
+        "RESTRICTED": false,
+        "STID": "HERUT",
+        "ELEV_DEM": "5157",
+        "LONGITUDE": "-112.02548",
+        "STATE": "UT",
+        "LATITUDE": "40.48815",
+        "TIMEZONE": "America\/Denver",
+        "ID": "39531"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2013-05-01T00:00:00Z",
+            "end": "2018-03-04T01:45:00Z"
+        },
+        "ELEVATION": "4212",
+        "NAME": "Great Salt Lake Minerals",
+        "RESTRICTED": false,
+        "STID": "GSLM",
+        "ELEV_DEM": "4206",
+        "LONGITUDE": "-112.269075",
+        "STATE": "UT",
+        "LATITUDE": "41.296997",
+        "TIMEZONE": "America\/Denver",
+        "ID": "39701"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2013-08-23T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "5744",
+        "NAME": "Emigrant Pass Observatory",
+        "RESTRICTED": false,
+        "STID": "UUEPO",
+        "ELEV_DEM": "5738",
+        "LONGITUDE": "-113.69964",
+        "STATE": "UT",
+        "LATITUDE": "41.53231",
+        "TIMEZONE": "America\/Denver",
+        "ID": "40222"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2013-07-23T00:00:00Z",
+            "end": "2018-03-04T01:50:00Z"
+        },
+        "ELEVATION": "5171",
+        "NAME": "UofU MiniSodar 1",
+        "RESTRICTED": false,
+        "STID": "USDR1",
+        "ELEV_DEM": "4219",
+        "LONGITUDE": "-112.062798",
+        "STATE": "UT",
+        "LATITUDE": "40.549198",
+        "TIMEZONE": "America\/Denver",
+        "ID": "40669"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2013-10-03T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "9425",
+        "NAME": "James Peak",
+        "RESTRICTED": false,
+        "STID": "UTPW3",
+        "ELEV_DEM": "9367",
+        "LONGITUDE": "-111.79291",
+        "STATE": "UT",
+        "LATITUDE": "41.39134",
+        "TIMEZONE": "America\/Denver",
+        "ID": "41130"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2013-10-14T00:00:00Z",
+            "end": "2018-03-04T01:50:00Z"
+        },
+        "ELEVATION": "4233",
+        "NAME": "UofU MiniSodar 2",
+        "RESTRICTED": false,
+        "STID": "USDR2",
+        "ELEV_DEM": "4245",
+        "LONGITUDE": "-112.03392",
+        "STATE": "UT",
+        "LATITUDE": "40.74895",
+        "TIMEZONE": "America\/Denver",
+        "ID": "41181"
+    }, {
+        "STATUS": "INACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2014-02-07T00:00:00Z",
+            "end": "2016-02-24T23:10:00Z"
+        },
+        "ELEVATION": "4294",
+        "NAME": "Intrepid Moab Weather",
+        "RESTRICTED": false,
+        "STID": "INTP1",
+        "ELEV_DEM": "4308",
+        "LONGITUDE": "-109.68439",
+        "STATE": "UT",
+        "LATITUDE": "38.48516",
+        "TIMEZONE": "America\/Denver",
+        "ID": "42349"
+    }, {
+        "STATUS": "INACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2014-05-20T00:00:00Z",
+            "end": "2017-03-09T21:00:00Z"
+        },
+        "ELEVATION": "7402",
+        "NAME": "UofU Spruces Hot Plate",
+        "RESTRICTED": false,
+        "STID": "UUHSP",
+        "ELEV_DEM": "7402",
+        "LONGITUDE": "-111.637004",
+        "STATE": "UT",
+        "LATITUDE": "40.641817",
+        "TIMEZONE": "America\/Denver",
+        "ID": "43018"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2014-05-27T00:00:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "4260",
+        "NAME": "Neil Armstrong Academy",
+        "RESTRICTED": false,
+        "STID": "NAA",
+        "ELEV_DEM": "4259",
+        "LONGITUDE": "-112.01448",
+        "STATE": "UT",
+        "LATITUDE": "40.71152",
+        "TIMEZONE": "America\/Denver",
+        "ID": "43136"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2014-04-01T00:00:00Z",
+            "end": "2018-02-05T05:00:00Z"
+        },
+        "ELEVATION": "4806",
+        "NAME": "Clearspot",
+        "RESTRICTED": false,
+        "STID": "CLSPT",
+        "ELEV_DEM": "4820",
+        "LONGITUDE": "-112.674450",
+        "STATE": "UT",
+        "LATITUDE": "38.830625",
+        "TIMEZONE": "America\/Denver",
+        "ID": "43201"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-01-15T23:06:00Z",
+            "end": "2018-03-04T01:00:00Z"
+        },
+        "ELEVATION": "8000",
+        "NAME": "Soldier Mountain Study Plot",
+        "RESTRICTED": false,
+        "STID": "SLDMS",
+        "ELEV_DEM": "8025",
+        "LONGITUDE": "-114.88834",
+        "STATE": "ID",
+        "LATITUDE": "43.48816",
+        "TIMEZONE": "America\/Boise",
+        "ID": "44405"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-03-05T19:33:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "4875",
+        "NAME": "North Logan - Green Canyon",
+        "RESTRICTED": false,
+        "STID": "NLGUT",
+        "ELEV_DEM": "4879",
+        "LONGITUDE": "-111.78895",
+        "STATE": "UT",
+        "LATITUDE": "41.76553",
+        "TIMEZONE": "America\/Denver",
+        "ID": "44627"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-04-13T21:02:00Z",
+            "end": "2018-03-04T01:00:00Z"
+        },
+        "ELEVATION": "4954",
+        "NAME": "Needles District Outpost",
+        "RESTRICTED": false,
+        "STID": "EDGUT",
+        "ELEV_DEM": "4928",
+        "LONGITUDE": "-109.74680",
+        "STATE": "UT",
+        "LATITUDE": "38.19334",
+        "TIMEZONE": "America\/Denver",
+        "ID": "44818"
+    }, {
+        "STATUS": "INACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-06-06T04:11:00Z",
+            "end": "2017-10-11T17:00:00Z"
+        },
+        "ELEVATION": "4206",
+        "NAME": "UofU Badger Island Tripod",
+        "RESTRICTED": false,
+        "STID": "UFD08",
+        "ELEV_DEM": "4206",
+        "LONGITUDE": "-112.561959",
+        "STATE": "UT",
+        "LATITUDE": "40.942590",
+        "TIMEZONE": "America\/Denver",
+        "ID": "46360"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-08-08T05:59:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "888",
+        "NAME": "Berkeley Lab",
+        "RESTRICTED": false,
+        "STID": "LBNL1",
+        "ELEV_DEM": "876",
+        "LONGITUDE": "-122.2485",
+        "STATE": "CA",
+        "LATITUDE": "37.8771",
+        "TIMEZONE": "America\/Los_Angeles",
+        "ID": "47170"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-08-21T06:02:00Z",
+            "end": "2018-03-04T01:30:00Z"
+        },
+        "ELEVATION": "3960",
+        "NAME": "WHSA 1",
+        "RESTRICTED": false,
+        "STID": "WHS01",
+        "ELEV_DEM": "3950",
+        "LONGITUDE": "-106.289875",
+        "STATE": "NM",
+        "LATITUDE": "32.863285",
+        "TIMEZONE": "America\/Denver",
+        "ID": "47219"
+    }, {
+        "STATUS": "INACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-08-21T06:02:00Z",
+            "end": "2017-07-10T17:00:00Z"
+        },
+        "ELEVATION": "3980",
+        "NAME": "WHSA 2",
+        "RESTRICTED": false,
+        "STID": "WHS02",
+        "ELEV_DEM": "3973",
+        "LONGITUDE": "-106.252210",
+        "STATE": "NM",
+        "LATITUDE": "32.875671",
+        "TIMEZONE": "America\/Denver",
+        "ID": "47220"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-08-21T06:02:00Z",
+            "end": "2018-03-04T01:30:00Z"
+        },
+        "ELEVATION": "3980",
+        "NAME": "WHSA 3",
+        "RESTRICTED": false,
+        "STID": "WHS03",
+        "ELEV_DEM": "3970",
+        "LONGITUDE": "-106.230702",
+        "STATE": "NM",
+        "LATITUDE": "32.885073",
+        "TIMEZONE": "America\/Denver",
+        "ID": "47221"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-09-17T00:10:00Z",
+            "end": "2018-03-04T01:00:00Z"
+        },
+        "ELEVATION": "9592",
+        "NAME": "Upper Vienna",
+        "RESTRICTED": false,
+        "STID": "VINMT",
+        "ELEV_DEM": "9560",
+        "LONGITUDE": "-114.85423",
+        "STATE": "ID",
+        "LATITUDE": "43.79158",
+        "TIMEZONE": "America\/Boise",
+        "ID": "47362"
+    }, {
+        "STATUS": "INACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2017-07-10T17:05:00Z",
+            "end": "2017-07-10T17:00:00Z"
+        },
+        "ELEVATION": "8925",
+        "NAME": "Lower Vienna",
+        "RESTRICTED": false,
+        "STID": "VINMS",
+        "ELEV_DEM": "8934",
+        "LONGITUDE": "-114.85256",
+        "STATE": "ID",
+        "LATITUDE": "43.79930",
+        "TIMEZONE": "America\/Boise",
+        "ID": "47363"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-09-17T00:01:00Z",
+            "end": "2018-03-04T01:00:00Z"
+        },
+        "ELEVATION": "7775",
+        "NAME": "Bench Lakes",
+        "RESTRICTED": false,
+        "STID": "BENLK",
+        "ELEV_DEM": "7785",
+        "LONGITUDE": "-114.95547",
+        "STATE": "ID",
+        "LATITUDE": "44.12301",
+        "TIMEZONE": "America\/Boise",
+        "ID": "47364"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-09-17T00:16:00Z",
+            "end": "2018-03-04T01:00:00Z"
+        },
+        "ELEVATION": "8707",
+        "NAME": "Skeleton Creek",
+        "RESTRICTED": false,
+        "STID": "SKLCK",
+        "ELEV_DEM": "8760",
+        "LONGITUDE": "-115.00604",
+        "STATE": "ID",
+        "LATITUDE": "43.69348",
+        "TIMEZONE": "America\/Boise",
+        "ID": "47365"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-09-24T18:59:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "4700",
+        "NAME": "Fremont Island - Miller Hill",
+        "RESTRICTED": false,
+        "STID": "FREUT",
+        "ELEV_DEM": "4695",
+        "LONGITUDE": "-112.32998",
+        "STATE": "UT",
+        "LATITUDE": "41.15461",
+        "TIMEZONE": "America\/Denver",
+        "ID": "47384"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-10-07T02:45:00Z",
+            "end": "2018-03-04T01:00:00Z"
+        },
+        "ELEVATION": "9452",
+        "NAME": "Kalf Plot Portable",
+        "RESTRICTED": false,
+        "STID": "UKALF",
+        "ELEV_DEM": "5899",
+        "LONGITUDE": "-111.36970",
+        "STATE": "UT",
+        "LATITUDE": "39.42890",
+        "TIMEZONE": "America\/Denver",
+        "ID": "47468"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2015-10-29T06:00:00Z",
+            "end": "2018-03-04T01:00:00Z"
+        },
+        "ELEVATION": "6241",
+        "NAME": "SnowSchool 1",
+        "RESTRICTED": false,
+        "STID": "WWA01",
+        "ELEV_DEM": "6224",
+        "LONGITUDE": "-116.11082",
+        "STATE": "ID",
+        "LATITUDE": "43.76932",
+        "TIMEZONE": "America\/Boise",
+        "ID": "47701"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2016-07-28T18:43:00Z",
+            "end": "2018-03-04T02:01:00Z"
+        },
+        "ELEVATION": "4206",
+        "NAME": "UofU Antelope Island Tripod",
+        "RESTRICTED": false,
+        "STID": "UFD09",
+        "ELEV_DEM": "4206",
+        "LONGITUDE": "-112.15936",
+        "STATE": "UT",
+        "LATITUDE": "40.92533",
+        "TIMEZONE": "America\/Denver",
+        "ID": "60130"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2016-08-23T17:18:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "5138",
+        "NAME": "Flight Park North",
+        "RESTRICTED": false,
+        "STID": "FPN",
+        "ELEV_DEM": "5131",
+        "LONGITUDE": "-111.89138",
+        "STATE": "UT",
+        "LATITUDE": "40.47415",
+        "TIMEZONE": "America\/Denver",
+        "ID": "60258"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2016-09-29T19:48:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "4218",
+        "NAME": "Bonneville Salt Flats",
+        "RESTRICTED": false,
+        "STID": "BFLAT",
+        "ELEV_DEM": "4206",
+        "LONGITUDE": "-113.82946",
+        "STATE": "UT",
+        "LATITUDE": "40.78422",
+        "TIMEZONE": "America\/Denver",
+        "ID": "60800"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2016-10-27T18:01:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "371",
+        "NAME": "Oregon Ridge JHU",
+        "RESTRICTED": false,
+        "STID": "JHU01",
+        "ELEV_DEM": "371",
+        "LONGITUDE": "-76.68900",
+        "STATE": "MD",
+        "LATITUDE": "39.49665",
+        "TIMEZONE": "America\/New_York",
+        "ID": "61037"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2017-03-07T21:21:00Z",
+            "end": "2018-03-04T02:05:00Z"
+        },
+        "ELEVATION": "5102",
+        "NAME": "Uintah River High School",
+        "RESTRICTED": false,
+        "STID": "URHSC",
+        "ELEV_DEM": "5020",
+        "LONGITUDE": "-109.86297",
+        "STATE": "UT",
+        "LATITUDE": "40.28216",
+        "TIMEZONE": "America\/Denver",
+        "ID": "61993"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2017-03-17T19:46:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "4217",
+        "NAME": "Syracuse",
+        "RESTRICTED": false,
+        "STID": "UUSYR",
+        "ELEV_DEM": "4213",
+        "LONGITUDE": "-112.11880",
+        "STATE": "UT",
+        "LATITUDE": "41.08847",
+        "TIMEZONE": "America\/Denver",
+        "ID": "62231"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2017-04-26T21:55:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "10627",
+        "NAME": "Grand Mesa Study Plot",
+        "RESTRICTED": false,
+        "STID": "GMSPC",
+        "ELEV_DEM": "10636",
+        "LONGITUDE": "-108.061435",
+        "STATE": "CO",
+        "LATITUDE": "39.050802",
+        "TIMEZONE": "America\/Denver",
+        "ID": "62592"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2017-10-05T02:56:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "8890",
+        "NAME": "Mary's Lift",
+        "RESTRICTED": false,
+        "STID": "UTPW4",
+        "ELEV_DEM": null,
+        "LONGITUDE": "-111.74537",
+        "STATE": "UT",
+        "LATITUDE": "41.36949",
+        "TIMEZONE": "America\/Denver",
+        "ID": "63486"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2017-10-30T18:01:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "4788",
+        "NAME": "The Waterford School",
+        "RESTRICTED": false,
+        "STID": "WTRFD",
+        "ELEV_DEM": null,
+        "LONGITUDE": "-111.84938",
+        "STATE": "UT",
+        "LATITUDE": "40.57961",
+        "TIMEZONE": "America\/Denver",
+        "ID": "63598"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2018-02-06T16:29:00Z",
+            "end": "2018-03-04T02:00:00Z"
+        },
+        "ELEVATION": "9379",
+        "NAME": "Little Spruce",
+        "RESTRICTED": false,
+        "STID": "ASBLS",
+        "ELEV_DEM": null,
+        "LONGITUDE": "-111.70983",
+        "STATE": "AZ",
+        "LATITUDE": "35.33224",
+        "TIMEZONE": "America\/Phoenix",
+        "ID": "64183"
+    }, {
+        "STATUS": "ACTIVE",
+        "MNET_ID": "153",
+        "PERIOD_OF_RECORD": {
+            "start": "2018-02-07T18:49:00Z",
+            "end": "2018-03-04T00:10:00Z"
+        },
+        "ELEVATION": "11555",
+        "NAME": "Top Patrol",
+        "RESTRICTED": false,
+        "STID": "ASBTP",
+        "ELEV_DEM": null,
+        "LONGITUDE": "-111.68559",
+        "STATE": "AZ",
+        "LATITUDE": "35.32581",
+        "TIMEZONE": "America\/Phoenix",
+        "ID": "64204"
+    }],
+    "SUMMARY": {
+        "NUMBER_OF_OBJECTS": 67,
+        "RESPONSE_CODE": 1,
+        "RESPONSE_MESSAGE": "OK",
+        "METADATA_RESPONSE_TIME": "2.09403038025 ms"
+    }
+}
