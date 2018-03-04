@@ -1,0 +1,26 @@
+{
+    "STATION": [{
+        "STATUS": "INACTIVE",
+        "MNET_ID": "53",
+        "PERIOD_OF_RECORD": {
+            "start": "2000-02-06T00:00:00Z",
+            "end": "2007-07-02T21:50:00Z"
+        },
+        "ELEVATION": "5350",
+        "NAME": "NORTH SALT LAKE BENCH",
+        "RESTRICTED": false,
+        "STID": "4UT01",
+        "ELEV_DEM": "5344",
+        "LONGITUDE": "-111.88222",
+        "STATE": "UT",
+        "LATITUDE": "40.82944",
+        "TIMEZONE": "America\/Denver",
+        "ID": "3876"
+    }],
+    "SUMMARY": {
+        "NUMBER_OF_OBJECTS": 1,
+        "RESPONSE_CODE": 1,
+        "RESPONSE_MESSAGE": "OK",
+        "METADATA_RESPONSE_TIME": "0.0801086425781 ms"
+    }
+}
