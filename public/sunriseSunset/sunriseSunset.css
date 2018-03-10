@@ -19,8 +19,12 @@
 }
 
 .sunDisplay.timeChange {
-    background-color: purple;
-    color: #fffff;
+    background-color: black;
+    color: white;
+}
+.sunDisplay.dayLength {
+    font-size: 45px;
+    padding: 8px;
 }
 
 /*homework assignement is:
