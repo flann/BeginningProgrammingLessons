@@ -1,0 +1,8 @@
+Step 1: copy the "grids" files to this directory
+Step 2: Rename the grids files for my page
+Step 3: Decide what you want to do with this page
+Step 4: Take out the myGrid div and change the text used as the title header
+Step 5: change the script file name on top to whatever file name(folder name) you decide to use
+Step 6: change the loadCss file name at the bottom to whatever file name(folder name) you decide to use
+Step 7: go to the index.html page and add an exercise link just like the other pages(can even copy one page and change)
+        Remember to change both the file name and the label (button) used to load the page 
