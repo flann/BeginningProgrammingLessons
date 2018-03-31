@@ -2,11 +2,14 @@ window.setInterval(function() {
     showTime();
 }, 1000);
 var time = 0;
+displayStopwatch();
 function showTime(){
     time++;
+    displayStopwatch();
+}
+function displayStopwatch(){
     var stopwatchDiv = document.getElementById("stopwatchDisplay");
     stopwatchDiv.innerHTML = getStopwatch(time);
-
 }
 function getStopwatch(seconds) {
     let s = seconds % 60;
