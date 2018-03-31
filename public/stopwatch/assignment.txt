@@ -6,3 +6,6 @@ Step 5: change the script file name on top to whatever file name(folder name) yo
 Step 6: change the loadCss file name at the bottom to whatever file name(folder name) you decide to use
 Step 7: go to the index.html page and add an exercise link just like the other pages(can even copy one page and change)
         Remember to change both the file name and the label (button) used to load the page
+Step 8: Now, make the time display look like a stopwatch (use either "if" "then" "else" or a ternary operator) to left pad time if needed.
+Step 9: Use css page to style time as desired.
+Step 10: Increase the resolution to one millisecond. (hh.mm.ss.SSS = 00.00.00.000) "simple date format"
