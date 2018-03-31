@@ -5,7 +5,7 @@
     <script>
         loadCss("/timer/timer.css");
         printTime();
-        window.setInterval(function() {
+        var timerIntervalId = window.setInterval(function() {
             printTime();
         }, 10);
     </script>

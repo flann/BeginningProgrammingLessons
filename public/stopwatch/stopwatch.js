@@ -1,4 +1,4 @@
-window.setInterval(function() {
+var stopwatchIntervalId = window.setInterval(function() {
     showTime();
 }, 1000);
 var time = 0;
@@ -9,6 +9,11 @@ function showTime(){
 }
 function displayStopwatch(){
     var stopwatchDiv = document.getElementById("stopwatchDisplay");
+    if (stopwatchDiv === null) {
+        // The page isn't loaded
+        clearInterval(stopwatchIntervalId);
+        return;
+    }
     stopwatchDiv.innerHTML = getStopwatch(time);
 }
 function getStopwatch(seconds) {

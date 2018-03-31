@@ -8,6 +8,7 @@ function printTime() {
         var timerDiv = document.getElementById("timer");
         if (timerDiv === null) {
             // The page isn't loaded
+            clearInterval(timerIntervalId);
             return;
         }
         document.getElementById("timer").appendChild(div);
