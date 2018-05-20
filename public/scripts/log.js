@@ -17,3 +17,8 @@ function logToDiv(str, div) {
     div.appendChild(pre);
     return span;
 }
+
+function logToId(str, id) {
+    let div = document.getElementById(id);
+    logToDiv(str, div);
+}
