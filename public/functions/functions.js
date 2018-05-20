@@ -10,6 +10,12 @@ var matrix = [
     [7, 8, 9]
 ];
 logToId(determinant(matrix), "functionsOutput");
+var a1 = matrix[0][0];
+var b2 = matrix[1][1];
+var c3 = matrix[2][2];
+
+logToId(a1 * b2 * c3, "functionsOutput");
+logToId(matrix[2][0], "functionsOutput");
 
 function mathEquation() {
     return Math.PI;
@@ -34,6 +40,13 @@ function divide(x, y) {
 }
 
 function determinant(matrix) {
-    let det = Math.PI / 2;
+    let a1 = matrix[0][0];
+    let a2 = 0; // ?
+    let a3 = 0; // ?
+    let b2 = matrix[1][1];
+    let c3 = matrix[2][2];
+    // ...
+
+    let det = a1 * b2 * c3; // - ...
     return det;
 }
